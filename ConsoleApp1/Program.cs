@@ -14,6 +14,9 @@ namespace ConsoleApp1
             for (int i = 0; i < 15; i++)
             {
                 Console.WriteLine("Life is good");
+                Console.WriteLine("Life is great");
+                Console.WriteLine("Life is so beautifull");
+
             }
         }
     }
