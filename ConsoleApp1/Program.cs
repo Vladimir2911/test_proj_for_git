@@ -6,7 +6,9 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("project for git-lesson");
+            int a = 0;
+            bool b = true;
         }
     }
 }
